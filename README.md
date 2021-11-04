@@ -30,7 +30,7 @@
                         /                                                \
                         |    _________________________________________     |
                         |   |                                         |    |
-                        |   |  root:~$ start curso.txt                |    |
+                        |   |  root:~$ cat curso.txt                |    |
                         |   |                                         |    |
                         |   |  "Olá me chamo Vinicius Rafael          |    |
                         |   |  Atualmente estou cursando              |    |
