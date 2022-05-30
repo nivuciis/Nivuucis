@@ -26,19 +26,19 @@
 
 
 
-            -            _______________________________________________   
-                        /                                                \
+            -             _______________________________________________   
+                        /                                                 \
                         |    _________________________________________     |
                         |   |                                         |    |
-                        |   |  root:~$ cat curso.txt                |    |
+                        |   |  root:~$ cat curso.txt                  |    |
                         |   |                                         |    |
                         |   |  "Olá me chamo Vinicius Rafael          |    |
                         |   |  Atualmente estou cursando              |    |
-                        |   |  Engenharia de Computação na UFAL       |    |
-                        |   | (Universidade Federal de Alagoas) e     |    |
-                        |   |  Análise e Desenvolvimento de Sistemas  |    |
-                        |   |  em UMJ (Faculdade de Tecnología de     |    |
-                        |   |  Alagoas). Moro atualmente em Maceió/AL"|    |
+                        |   |  Engenharia de Computação na UFAL."     |    |
+                        |   |                                         |    |
+                        |   |                                         |    |
+                        |   |                                         |    |
+                        |   |                                         |    |
                         |   |                                         |    |
                         |   |  root:~$                                |    |
                         |   |                                         |    |
